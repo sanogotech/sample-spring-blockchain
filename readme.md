@@ -5,7 +5,7 @@ Detailed description can be found here: [Introduction to Blockchain with Java us
 
 ## Docs
 - https://piotrminkowski.com/2018/06/22/introduction-to-blockchain-with-java-using-ethereum-web3j-and-spring-boot/
-- 
+- https://www.simplilearn.com/promising-uses-of-blockchain-article
 
 ## Running Ethereum locally
 ``` 
